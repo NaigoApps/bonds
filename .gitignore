@@ -1,0 +1,4 @@
+/src/main/webapp/bonds-ui/node_modules/
+/src/main/webapp/bonds-ui/build/
+/target/
+/.idea/
